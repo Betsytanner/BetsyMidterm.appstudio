@@ -1,3 +1,4 @@
+/*
 //create a function that finds the average square with the eqation thats given
 //create 3 parameters that the user enters 
 //out put the answer to the user 
@@ -10,3 +11,4 @@ let userNum2 = Number(prompt("please enter the second number"))
 let userNum3 = Number(prompt("please enter the third number"))
 let numReturn = calcAvgSquare(userNum1, userNum2, userNum3)
 console.log(alert(`the answer is  ${numReturn}`))
+*/

@@ -29,6 +29,7 @@ Removed all the 'let' commands from the copied code so you aren't re-creating th
 The program must run exactly two times. 
 Code is all commented out. 
 Program runs without error.
-i=2 
 
+for(i=2;myAnimals<=2, i++)
+  myAlertAnimals = alert(`the last anlimal is a/n + ${alertLast}`)
 */

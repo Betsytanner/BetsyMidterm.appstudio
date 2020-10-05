@@ -1,3 +1,4 @@
+/*
 //user will enter their income 
 //then they will click the sbmit button - on click fxn
 //once the user submits they can be given 3 brackets
@@ -23,3 +24,4 @@ btnSubmit.onclick=function(){
   //else:
     //lblValue.value = "try again"
 }
+*/
