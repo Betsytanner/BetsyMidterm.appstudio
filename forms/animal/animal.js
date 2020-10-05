@@ -13,11 +13,22 @@ Output the last animal in the array using an array method to an alert using a te
 eg. Say the last animal in the array is 'eagle'. Then the output would be: 
        "The last animal is a/an eagle."
 Code is all commented out. 
-Program runs without error.*/
-
+Program runs without error.
+COME BACK TO ADD THE ANY CASE 
 
 let myAnimals = ["dog", "cat", "horse", "meerkat"]
 let animalUser = prompt("What is the animal?")
 console.log(myAnimals.push(animalUser))
 let alertLast = myAnimals[myAnimals.length-1]
 let myAlertAnimals = alert(`the last anlimal is a/n + ${alertLast}`)
+*/
+
+/*
+Extra XP 
+Removed all the 'let' commands from the copied code so you aren't re-creating the variables again on this form.
+The program must run exactly two times. 
+Code is all commented out. 
+Program runs without error.
+i=2 
+
+*/

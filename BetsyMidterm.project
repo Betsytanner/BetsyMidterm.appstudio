@@ -26,6 +26,22 @@
             "animal",
             "animal.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "calculate",
+            "calculate.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "incomeBracket",
+            "incomeBracket.json"
+          ]
         }
       ],
       "configxml": null,
@@ -47,7 +63,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "animal",
+      "firstform": "calculate",
       "fontFamily": "system",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",
